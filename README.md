@@ -11,7 +11,7 @@ This project demonstrates how to efficiently accelerate Exploratory Data Analysi
 ├── reports/                  # Generated data profiling reports
 ├── scripts/                  # Python scripts for running EDA and profiling tasks
 ├── .gitignore                # List of folders and files ignored by gitignore
-├── .LICENSE                  # Project license
+├── LICENSE                  # Project license
 └── README.md                 # Project overview and instructions
 ```
 
@@ -55,8 +55,7 @@ You can find example reports in the reports/ folder. These reports give a full b
 
 ## Contact
 
-For questions or collaborations, feel free to contact me:
-
+For questions or collaborations, feel free to contact me:  
 **Name**: Mabelly Tuchsznajder  
 **Email**: <mot.scil@icloud.com>  
 **LinkedIn**: <https://linkedin.com/in/motsci>  
