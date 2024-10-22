@@ -57,7 +57,7 @@ You can find example reports in the reports/ folder. These reports give a full b
 
 For questions or collaborations, feel free to contact me:
 
-**Name**: Mabelly Tuchsznajder
-**Email**: <mot.scil@icloud.com>
-**LinkedIn**: <https://linkedin.com/in/motsci>
-**Portfolio**: <https://github.com/MOTSci>
+**Name**: Mabelly Tuchsznajder  
+**Email**: <mot.scil@icloud.com>  
+**LinkedIn**: <https://linkedin.com/in/motsci>  
+**Portfolio**: <https://github.com/MOTSci>  
